@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ur5_pybullet_ros
+    relative_path: script/urdf/ur5_robotiq_85_rviz.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/ur5_robotiq_85.srdf
+  CONFIG:
+    author_name: chalkchalk
+    author_email: 1261677461@qq.com
+    generated_timestamp: 1700494107
